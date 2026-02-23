@@ -1,4 +1,3 @@
-```markdown
 # OpenClaw 项目集合 📚
 
 > 🌟 精选 OpenClaw 相关项目，助你更好地使用这个强大的 AI 助手框架
@@ -13,7 +12,7 @@
 
 **全中文界面**，CLI 命令行和 Dashboard 网页控制台均已深度汉化。
 
-🔗 **项目地址**：[https://github.com/1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)
+🔗 **项目地址**：https://github.com/1186258278/OpenClawChineseTranslation
 
 ---
 
@@ -23,4 +22,4 @@
 
 这是一个关于 OpenClaw 的社区实用案例集合。
 
-🔗 **项目地址**：[https://github.com/hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+🔗 **项目地址**：https://github.com/hesamsheikh/awesome-openclaw-usecases
