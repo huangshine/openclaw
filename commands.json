@@ -1,0 +1,32 @@
+[
+  {
+    "name": "vault_get_password",
+    "type": "command", 
+    "command": "bw get password \"$input\" --session $BW_SESSION",
+    "description": "Get password from vaultwarden"
+  },
+  {
+    "name": "vault_get_item",
+    "type": "command",
+    "command": "bw get item \"$input\" --session $BW_SESSION",
+    "description": "Get item details from vaultwarden"
+  },
+  {
+    "name": "vault_list_items",
+    "type": "command", 
+    "command": "bw list items --session $BW_SESSION",
+    "description": "List all items in vaultwarden"
+  },
+  {
+    "name": "vault_get_username",
+    "type": "command",
+    "command": "bw get username \"$input\" --session $BW_SESSION",
+    "description": "Get username from vaultwarden"
+  },
+  {
+    "name": "vault_sync",
+    "type": "command",
+    "command": "bw sync --session $BW_SESSION",
+    "description": "Sync vaultwarden data with server"
+  }
+]
