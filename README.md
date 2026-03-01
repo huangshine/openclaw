@@ -1,3 +1,24 @@
+# 自写skills
+
+## 🦞 Vaultwarden for OpenClaw
+
+OpenClaw的Vaultwarden认证管理技能 - 安全、自动化地管理您的密码和敏感信息
+
+🚀 功能特性
+🔐 安全认证管理 - 通过Vaultwarden安全获取密码、令牌和敏感信息
+🤖 自动化集成 - 无缝集成到OpenClaw工作流中
+🔄 实时同步 - 自动与Vaultwarden服务器同步最新数据
+🛡️ 零敏感信息泄露 - 技能本身不存储任何敏感数据
+📚 完整命令集 - 提供密码获取、项目详情、列表查看等完整功能
+
+🔧 前置要求
+OpenClaw 已安装并运行
+Bitwarden CLI 已安装
+Vaultwarden 服务器可访问
+
+**地址**：https://github.com/huangshine/openclaw/tree/main/vaultwarden
+
+
 # OpenClaw 项目集合 📚
 
 > 🌟 精选 OpenClaw 相关项目，助你更好地使用这个强大的 AI 助手框架
